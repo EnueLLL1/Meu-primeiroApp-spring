@@ -1,4 +1,4 @@
-package com.EnueLLL1.My_fist_spring_app;
+package com.enuelll1.my_fist_spring_app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

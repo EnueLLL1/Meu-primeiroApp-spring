@@ -1,4 +1,4 @@
-package com.EnueLLL1.My_fist_spring_app.contoler;
+package com.enuelll1.my_fist_spring_app.contoler;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
